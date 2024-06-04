@@ -1,0 +1,16 @@
+.links-container{
+    background-image: url(img/nav-background.png) ;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    min-height: 30em;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    
+
+}  
+    
+nav img{ 
+    width:500px;
+    object-fit: fill;
+}
